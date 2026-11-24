@@ -1,0 +1,45 @@
+language,sentiment,theme,posts
+English,negative,Availability & support,36
+English,negative,Battery,65
+English,negative,Camera,59
+English,negative,Display,71
+English,negative,Other,70
+English,negative,Price & value,75
+English,neutral,Availability & support,155
+English,neutral,Other,96
+English,positive,Availability & support,43
+English,positive,Battery,83
+English,positive,Camera,72
+English,positive,Display,97
+English,positive,Performance,89
+English,positive,Price & value,65
+Hindi,negative,Availability & support,34
+Hindi,negative,Battery,50
+Hindi,negative,Camera,61
+Hindi,negative,Display,56
+Hindi,negative,Other,51
+Hindi,negative,Performance,56
+Hindi,negative,Price & value,63
+Hindi,neutral,Availability & support,124
+Hindi,neutral,Other,111
+Hindi,positive,Availability & support,53
+Hindi,positive,Battery,88
+Hindi,positive,Camera,93
+Hindi,positive,Display,88
+Hindi,positive,Performance,69
+Hindi,positive,Price & value,92
+Hinglish,negative,Availability & support,35
+Hinglish,negative,Battery,60
+Hinglish,negative,Camera,70
+Hinglish,negative,Display,67
+Hinglish,negative,Other,57
+Hinglish,negative,Performance,67
+Hinglish,negative,Price & value,77
+Hinglish,neutral,Availability & support,174
+Hinglish,neutral,Other,85
+Hinglish,positive,Availability & support,44
+Hinglish,positive,Battery,79
+Hinglish,positive,Camera,96
+Hinglish,positive,Display,93
+Hinglish,positive,Performance,81
+Hinglish,positive,Price & value,89
